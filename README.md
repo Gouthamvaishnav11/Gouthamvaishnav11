@@ -4,13 +4,21 @@ Currently pursuing B.Tech in Computer Science and Engineering, with a focus on b
 
 Skills
 💻 Programming Languages: C, Python, C++ (DSA)
+
 🔧 Backend Development: Flask, Web Development
+
 📚 Data Structures & Algorithms: Studying DSA with C++
+
 🖥️ Web Technologies: HTML, CSS, JavaScript
+
 🌐 Version Control: Git and GitHub
+
 🔍 Problem-Solving: Strong analytical skills, focus on efficient solutions
 
 Github link :https://github.com/Gouthamvaishnav11
+
 Linkedin link :https://www.linkedin.com/in/goutham-vaishnav/
+
+
 Leetcode link:https://leetcode.com/u/Gouthamvaishnav/
 
