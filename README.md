@@ -1,16 +1,16 @@
-## Hi there 👋
+ 👨‍💻 Goutham Vaishnav | B.Tech CSE Student at Chaitanya Deemed to be University, Sunstone 🚀
 
-<!--
-**Gouthamvaishnav11/Gouthamvaishnav11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing B.Tech in Computer Science and Engineering, with a focus on backend development, programming, and data structures. Passionate about learning and implementing innovative solutions in the tech industry. Skilled in multiple programming languages and committed to enhancing technical expertise.
 
-Here are some ideas to get you started:
+Skills
+💻 Programming Languages: C, Python, C++ (DSA)
+🔧 Backend Development: Flask, Web Development
+📚 Data Structures & Algorithms: Studying DSA with C++
+🖥️ Web Technologies: HTML, CSS, JavaScript
+🌐 Version Control: Git and GitHub
+🔍 Problem-Solving: Strong analytical skills, focus on efficient solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Github link :https://github.com/Gouthamvaishnav11
+Linkedin link :https://www.linkedin.com/in/goutham-vaishnav/
+Leetcode link:https://leetcode.com/u/Gouthamvaishnav/
+
