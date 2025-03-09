@@ -26,6 +26,7 @@ Skills
 
 🔍 Problem-Solving: Strong analytical skills, focus on efficient solutions
 
-📌 GitHub ➝ Goutham Vaishnav
-📌 LinkedIn ➝ Goutham Vaishnav
-📌 LeetCode ➝ Goutham Vaishnav
+🔗 Connect with Me:
+🔹 GitHub: 🔗 Gouthamvaishnav11
+🔹 LinkedIn: 🔗 Goutham Vaishnav
+🔹 LeetCode: 🔗 Gouthamvaishnav
