@@ -4,8 +4,11 @@ I still remember the excitement of building my first project—transforming an i
 
 🔹 My Journey: From Code to Impact
 My journey began with a curiosity about how systems work behind the scenes. Over time, I have built and optimized event management platforms, restaurant systems, and job board applications, each reinforcing my skills in:
+
 ✅ Backend Development – Designing efficient databases, APIs, and authentication systems.
+
 ✅ Performance Optimization – Ensuring smooth functionality and scalability.
+
 ✅ Problem-Solving – Turning complex challenges into clean, maintainable code.
 
 🔹 What’s Next?
