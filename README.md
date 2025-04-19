@@ -5,7 +5,7 @@ Hi there! 👋 I’m Goutham Vaishnav, a passionate Full-Stack Developer based i
 I still remember the excitement of building my first project—transforming an idea into a working application. That passion has only grown stronger as I’ve evolved into a Full-Stack Developer with 1 year of experience in backend development, specializing in Flask and SQLAlchemy.
 
 🔹 My Journey: From Code to Impact
-My journey began with a curiosity about how systems work behind the scenes. Over time, I have built and optimized event management platforms, restaurant systems, and job board applications, each reinforcing my skills in:
+My journey began with a curiosity about how systems work behind the scenes. Over time, I have built and optimized event management platforms, restaurant systems, and Task-Automation-with-Python-Scripts, each reinforcing my skills in:
 
 ✅ Backend Development – Designing efficient databases, APIs, and authentication systems.
 
