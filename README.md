@@ -1,4 +1,6 @@
-🚀 Full-Stack Developer | Building Scalable & Secure Solutions
+# 🚀 Full-Stack Developer | Building Scalable & Secure Solutions
+
+Hi there! 👋 I’m Goutham Vaishnav, a passionate Full-Stack Developer based in Hyderabad, India. I specialize in building robust backend systems using Flask and SQLAlchemy, with a strong foundation in web technologies and a growing expertise in Cloud Computing and DevOps.
 
 I still remember the excitement of building my first project—transforming an idea into a working application. That passion has only grown stronger as I’ve evolved into a Full-Stack Developer with 1 year of experience in backend development, specializing in Flask and SQLAlchemy.
 
@@ -29,12 +31,17 @@ Skills
 
 🔍 Problem-Solving: Strong analytical skills, focus on efficient solutions
 
-🔗 Connect with Me:
 
-🔹 Github link :https://github.com/Gouthamvaishnav11/
+## 📍 Location: Hyderabad | 💼 Role: Full-Stack Developer
+
+## 🔗 Connect With Me
+
+- 🔹 GitHub: [Gouthamvaishnav11](https://github.com/Gouthamvaishnav11/)
+- 🔹 LinkedIn: [Goutham Vaishnav](https://www.linkedin.com/in/goutham-vaishnav/)
+- 🔹 LeetCode: [Gouthamvaishnav](https://leetcode.com/u/Gouthamvaishnav/)
 
 
-🔹Linkedin link :https://www.linkedin.com/in/goutham-vaishnav/
+> “Code is not just about solving problems; it’s about building dreams into reality.” 🌟
 
 
-🔹Leetcode link:https://leetcode.com/u/Gouthamvaishnav/
+
