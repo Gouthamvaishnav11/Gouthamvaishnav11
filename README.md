@@ -6,7 +6,9 @@ Hi there! 👋 I’m **Goutham Vaishnav**, a passionate Full-Stack Developer bas
 My journey began with curiosity about how systems operate behind the scenes. This curiosity has driven me to continuously learn and expand my toolkit. As a developer, I thrive on:
 
 ✅ **Backend Development** – Designing efficient databases, APIs, and secure authentication systems.
+
 ✅ **Performance Optimization** – Ensuring seamless, scalable applications.
+
 ✅ **Problem-Solving** – Turning complex challenges into clean, maintainable solutions.
 
 🔹 **Embracing DevOps & Cloud**
