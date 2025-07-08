@@ -15,18 +15,28 @@ My journey began with curiosity about how systems operate behind the scenes. Thi
 I’m currently diving deeper into **DevOps and Cloud Computing** to become a versatile developer who not only writes code but also understands how to deploy, scale, and secure applications in production environments. My DevOps skills include:
 
 🔧 **Docker** – Containerizing applications for consistency and easy deployment.
+
 🔧 **Linux Commands & Shell Scripting** – Automating workflows and managing servers efficiently.
+
 🔧 **CI/CD Pipelines** – Streamlining code integration and delivery for faster, reliable deployments.
+
 🔧 **Cloud Deployments** – Exploring cloud services to build scalable and resilient systems.
 
 **Skills Snapshot**
 💻 Programming Languages: C, Python, C++ (DSA)
+
 🖥️ Web Technologies: HTML, CSS, JavaScript
+
 🔧 Backend Development: Flask, SQLAlchemy, Web Development
+
 🌐 Version Control: Git and GitHub
+
 ☁️ DevOps: Docker, Shell Scripting, Linux, CI/CD
+
 📚 Data Structures & Algorithms: Studying DSA with C++
+
 🔍 Problem-Solving: Strong analytical skills and focus on efficient solutions
+
 
 📍 **Location:** Hyderabad, India | 💼 **Role:** Full-Stack Developer
 
