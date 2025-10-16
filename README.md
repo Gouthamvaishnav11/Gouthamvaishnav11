@@ -1,53 +1,45 @@
-🚀 **Full-Stack Developer | Building Scalable & Secure Solutions**
+🚀 Full-Stack Developer & AI Automation Engineer | Building Scalable, Intelligent, and Secure Solutions
 
-Hi there! 👋 I’m **Goutham Vaishnav**, a passionate Full-Stack Developer based in Hyderabad, India. I specialize in crafting robust backend systems using **Flask and SQLAlchemy**, complemented by a solid command of modern web technologies. Over the past year, I’ve transformed innovative ideas into real-world applications, developing event management platforms, restaurant systems,AI-Resume Scanner and automation tools with Python scripts.
+Hi there! 👋 I’m Goutham Vaishnav, a passionate Full-Stack Developer and AI Automation Engineer based in Hyderabad, India. I specialize in crafting robust backend systems with Flask and SQLAlchemy, developing intelligent automation workflows using AI agents, and deploying scalable solutions with modern DevOps practices.
 
-🔹 **From Code to Impact**
-My journey began with curiosity about how systems operate behind the scenes. This curiosity has driven me to continuously learn and expand my toolkit. As a developer, I thrive on:
+Over the past year, I’ve built real-world applications — from event management platforms and restaurant systems to AI-powered resume scanners and process automation tools — combining creativity, efficiency, and technology.
 
-✅ **Backend Development** – Designing efficient databases, APIs, and secure authentication systems.
+🔹 Professional Summary
 
-✅ **Performance Optimization** – Ensuring seamless, scalable applications.
+Driven by curiosity and innovation, I bridge the gap between software development and intelligent automation. My expertise spans backend development, DevOps, and AI-driven automation, enabling me to build systems that not only function — but think, scale, and adapt.
 
-✅ **Problem-Solving** – Turning complex challenges into clean, maintainable solutions.
+I love turning ideas into impactful solutions using Python, Flask, AI agents, and n8n/ChatGPT-based workflows, while ensuring high performance, security, and reliability.
 
-🔹 **Embracing DevOps & Cloud**
-I’m currently diving deeper into **DevOps and Cloud Computing** to become a versatile developer who not only writes code but also understands how to deploy, scale, and secure applications in production environments. My DevOps skills include:
+🧠 Core Expertise
 
-🔧 **Docker** – Containerizing applications for consistency and easy deployment.
+✅ Backend Development – Designing scalable APIs, secure authentication systems, and optimized databases.
+✅ AI & Automation – Building intelligent workflows using n8n, ChatGPT, and Omnidim.io for process automation and conversational AI.
+✅ DevOps & Cloud – Streamlining CI/CD pipelines, containerizing applications with Docker, and deploying efficiently in cloud environments.
+✅ Problem-Solving – Transforming complex challenges into elegant, maintainable code with measurable impact.
 
-🔧 **Linux Commands & Shell Scripting** – Automating workflows and managing servers efficiently.
+⚙️ Skills Snapshot
 
-🔧 **CI/CD Pipelines** – Streamlining code integration and delivery for faster, reliable deployments.
-
-🔧 **Cloud Deployments** – Exploring cloud services to build scalable and resilient systems.
-
-**Skills Snapshot**
 💻 Programming Languages: C, Python, C++ (DSA)
-
 🖥️ Web Technologies: HTML, CSS, JavaScript
+🔧 Backend Development: Flask, SQLAlchemy, REST APIs
+🤖 AI & Automation: n8n, ChatGPT, Omnidim.io, Workflow Orchestration
+🌐 Version Control: Git & GitHub
+☁️ DevOps: Docker, Linux, Shell Scripting, CI/CD, Cloud Deployments
+📚 Data Structures & Algorithms: Strong foundation in C++
+🧩 Problem-Solving: Analytical mindset with focus on clean, efficient solutions
 
-🔧 Backend Development: Flask, SQLAlchemy, Web Development
+📍 Location: Hyderabad, India
+💼 Role: Full-Stack Developer & AI Automation Engineer
 
-🌐 Version Control: Git and GitHub
+🔗 Connect With Me
 
-☁️ DevOps: Docker, Shell Scripting, Linux, CI/CD
+🔹 GitHub: Gouthamvaishnav11
 
-📚 Data Structures & Algorithms: Studying DSA with C++
+🔹 LinkedIn: Goutham Vaishnav
 
-🔍 Problem-Solving: Strong analytical skills and focus on efficient solutions
+🔹 LeetCode: Gouthamvaishnav
+```
+“Code is not just about solving problems — it’s about creating intelligence, automating possibilities, and turning dreams into digital reality.” 🌟
 
-
-📍 **Location:** Hyderabad, India | 💼 **Role:** Full-Stack Developer
-
-## 🔗 Connect With Me
-
-- 🔹 GitHub: [Gouthamvaishnav11](https://github.com/Gouthamvaishnav11/)
-- 🔹 LinkedIn: [Goutham Vaishnav](https://www.linkedin.com/in/goutham-vaishnav/)
-- 🔹 LeetCode: [Gouthamvaishnav](https://leetcode.com/u/Gouthamvaishnav/)
-
-
-> “Code is not just about solving problems; it’s about building dreams into reality.” 🌟
-
-
+```
 
