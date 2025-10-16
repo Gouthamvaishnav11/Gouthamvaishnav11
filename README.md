@@ -38,8 +38,8 @@ I love turning ideas into impactful solutions using Python, Flask, AI agents, an
 🔹 LinkedIn: Goutham Vaishnav
 
 🔹 LeetCode: Gouthamvaishnav
-```
+
 “Code is not just about solving problems — it’s about creating intelligence, automating possibilities, and turning dreams into digital reality.” 🌟
 
-```
+
 
