@@ -31,14 +31,14 @@ I love turning ideas into impactful solutions using Python, Flask, AI agents, an
 📍 Location: Hyderabad, India
 💼 Role: Full-Stack Developer & AI Automation Engineer
 
-🔗 Connect With Me
+## 🔗 Connect With Me - 
+🔹 GitHub: [Gouthamvaishnav11](https://github.com/Gouthamvaishnav11/) 
 
-🔹 GitHub: Gouthamvaishnav11
+🔹 LinkedIn: [Goutham Vaishnav](https://www.linkedin.com/in/goutham-vaishnav/) 
 
-🔹 LinkedIn: Goutham Vaishnav
+🔹 LeetCode: [Gouthamvaishnav](https://leetcode.com/u/Gouthamvaishnav/)
 
-🔹 LeetCode: Gouthamvaishnav
-
+```
 “Code is not just about solving problems — it’s about creating intelligence, automating possibilities, and turning dreams into digital reality.” 🌟
 
 
