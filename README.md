@@ -66,8 +66,9 @@ Full-Stack Developer & AI Automation Engineer
 ### 🔥 GitHub Contribution Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Gouthamvaishnav11&theme=tokyonight)
 
-### ⭐ GitHub Stats  
-![Goutham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gouthamvaishnav11&show_icons=true&theme=tokyonight)
+### 🧮 Total GitHub Commit Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gouthamvaishnav11&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+
 
 ### 📘 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamvaishnav11&layout=compact&theme=tokyonight)
