@@ -1,8 +1,3 @@
-i need complete github readme as like this but in the correclt values Here is your **improved, cleaner, more professional, and powerful version** — same style, same structure, but rewritten with stronger wording and better flow.
-You can copy–paste directly into your **README.md**.
-
----
-
 # 🚀 Full-Stack Developer & AI Automation Engineer
 
 ### Crafting Scalable, Intelligent & Secure Digital Solutions
