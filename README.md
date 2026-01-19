@@ -1,78 +1,63 @@
-# 🚀 Full-Stack Developer & AI Automation Engineer
+### 🚀 Full-Stack Developer & AI Automation Engineer
+Crafting Scalable, Intelligent & Secure Digital Solutions
 
-### Crafting Scalable, Intelligent & Secure Digital Solutions
+Hi there! 👋 I’m Goutham Vaishnav, a dedicated Full-Stack Developer and AI Automation Engineer from Hyderabad, India.
 
-Hi there! 👋 I’m **Goutham Vaishnav**, a dedicated Full-Stack Developer and AI Automation Engineer from **Hyderabad, India**.
+I build robust backend systems using Flask & SQLAlchemy and design intelligent automation workflows powered by AI agents to solve real-world problems efficiently.
 
-I build robust backend systems using **Flask & SQLAlchemy**, design intelligent automation workflows powered by **AI agents**, and deploy scalable solutions using modern **DevOps** practices.
+Over the past year, I’ve developed multiple real-world applications—from event management platforms and restaurant systems to AI-powered resume analyzers and workflow automation tools—combining creativity, performance, and smart engineering.
 
-Throughout the past year, I’ve developed multiple real-world applications—from event management platforms and restaurant systems to AI-powered resume analyzers and workflow automation tools—combining creativity, performance, and next-level engineering.
+# 🔹 Professional Summary
 
----
+Fueled by curiosity and innovation, I merge software engineering with AI-driven automation to create systems that don’t just work—
+they think, adapt, and scale intelligently.
 
-## 🔹 Professional Summary
+I excel at transforming ideas into impactful, high-performance applications using Python, Flask, AI agents, and automation workflows, with a strong focus on clean architecture, reliability, and security.
 
-Fueled by curiosity and innovation, I merge **software engineering** with **AI-driven automation** to create systems that don’t just work—
-they **think, adapt, and scale intelligently**.
+# 🧠 Core Expertise
 
-I excel in converting ideas into impactful, high-performance applications using **Python, Flask, AI agents, and automation workflows**, always prioritizing speed, reliability, and security.
+✅ Backend Development – Designing APIs, authentication systems, and secure, optimized databases
 
----
+✅ AI & Automation – Building intelligent workflows using n8n, ChatGPT, and Omnidim.io
 
-## 🧠 Core Expertise
+✅ Problem-Solving – Delivering clean, maintainable, and scalable solutions
 
-* ✅ **Backend Development** – APIs, authentication, secure & optimized databases
-* ✅ **AI & Automation** – n8n, ChatGPT, Omnidim.io, workflow orchestration
-* ✅ **DevOps & Cloud** – Docker, CI/CD pipelines, Linux, cloud environments
-* ✅ **Problem-Solving** – Clean, maintainable, scalable solutions
-
----
-
-## ⚙️ Skills Snapshot
-
-### 💻 Programming Languages
+# ⚙️ Skills Snapshot
+💻 Programming Languages
 
 C, Python, C++ (DSA)
 
-### 🖥️ Web Technologies
+🖥️ Web Technologies
 
 HTML, CSS, JavaScript
 
-### 🔧 Backend Development
+🔧 Backend Development
 
 Flask, SQLAlchemy, REST APIs
 
-### 🤖 AI & Automation
+🤖 AI & Automation
 
 n8n, ChatGPT, Omnidim.io
 
-### 🌐 Version Control
+🌐 Version Control
 
 Git & GitHub
 
-### ☁️ DevOps
-
-Docker, Linux, Shell Scripting, CI/CD, Cloud Deployments
-
-### 📚 Data Structures & Algorithms
+📚 Data Structures & Algorithms
 
 Strong foundation in C++
 
-### 🧩 Problem-Solving
+🧩 Problem-Solving
 
-Focused on efficient, analytical approaches
+Focused on efficient and analytical approaches
 
----
-
-## 📍 Location
+# 📍 Location
 
 Hyderabad, India
 
-## 💼 Role
+# 💼 Role
 
 Full-Stack Developer & AI Automation Engineer
-
----
 
 
 # 📊 GitHub Stats:
