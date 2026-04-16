@@ -61,7 +61,7 @@ Full-Stack Developer & AI Automation Engineer
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gouthamvaishnav11&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gouthamvaishnav11&layout=compact&theme=dark&hide_border=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Gouthamvaishnav11&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamvaishnav11&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
