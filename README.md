@@ -208,10 +208,20 @@ Python • React.js • Firebase • YOLOv8 • Machine Learning
 
 # 🏆 GitHub Achievements
 
+## 🏆 Achievements
+
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gouthamvaishnav11&theme=tokyonight" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gouthamvaishnav11&theme=algolia&no-frame=true&row=2&column=4"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gouthamvaishnav11&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gouthamvaishnav11&theme=tokyonight"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gouthamvaishnav11&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gouthamvaishnav11&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
