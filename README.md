@@ -1,109 +1,167 @@
+```md
 <h1 align="center">Hi 👋, I'm Goutham Vaishnav</h1>
-<h3 align="center">Python Backend Developer | ERPNext & Frappe Developer | AI Enthusiast</h3>
+
+<h3 align="center">
+Python Backend Developer • ERPNext & Frappe Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;ERPNext+%26+Frappe+Developer;Full-Stack+Web+Developer;AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;ERPNext+%26+Frappe+Developer;Application+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Gouthamvaishnav11&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Gouthamvaishnav11?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/Gouthamvaishnav11?style=for-the-badge&logo=github" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-🎓 **B.Tech Computer Science Engineering**  
-📍 Chaitanya Deemed to be University (2023 – 2027)  
-📊 CGPA: **9.3/10**
+🎓 Final-year **B.Tech Computer Science Engineering** student at **Chaitanya Deemed to be University** (2023–2027) with a **CGPA of 9.3/10**.
 
-💼 **Python Backend Developer Intern** @ Katalyst Consulting Services
+💼 Currently working as a **Python Backend Developer Intern** at **Katalyst Consulting Services**, where I contribute to developing enterprise applications using **Python, ERPNext, and the Frappe Framework**.
 
-🔹 Developing backend APIs using **Python, ERPNext, and Frappe Framework**
+My work focuses on:
 
-🔹 Working on **ERPNext Manufacturing**, Production Planning & REST APIs
+- 🔹 Backend API Development
+- 🔹 ERPNext Manufacturing Modules
+- 🔹 Production Planning
+- 🔹 REST API Integration
+- 🔹 Vue.js Frontend Development
+- 🔹 Git-based Collaborative Development
 
-🔹 Building responsive interfaces using **Vue.js**
+I enjoy designing scalable backend systems, building enterprise software, and solving real-world business problems through modern technologies.
 
-🔹 Interested in Backend Development, AI, Enterprise Applications, and Open Source
+Currently exploring Artificial Intelligence technologies including **LangChain, Retrieval-Augmented Generation (RAG), Prompt Engineering, NLP, AI Agents, and Gemini AI**.
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
 </p>
 
-### ⚙️ Backend
+---
 
-<p>
+## ⚙ Backend Development
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white"/>
-<img src="https://img.shields.io/badge/Frappe_Framework-1F4E79?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ERPNext-0170FE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frappe_Framework-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-E34F26?style=for-the-badge"/>
 </p>
 
-### 🎨 Frontend
+---
 
-<p>
+## 🎨 Frontend
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=vue,react,bootstrap" />
 </p>
 
-### 🗄️ Database
+---
 
-<p>
+## 🗄 Databases
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=sqlite,firebase" />
 </p>
 
-### 🤖 AI & Machine Learning
+---
 
-- LangChain
-- RAG
-- Prompt Engineering
-- NLP
-- AI Agents
-- Gemini AI
+## 🤖 AI & Machine Learning
 
-### 🛠 Tools
+<p align="center">
 
-<p>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,vscode" />
 </p>
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
 ## Python Backend Developer Intern
-**Katalyst Consulting Services** *(Jun 2026 – Present)*
 
-- Backend API Development using Python
-- ERPNext & Frappe Framework
-- Manufacturing & Production Planning
-- Vue.js Frontend Development
-- REST API Integration
-- Git & Docker Workflow
+**Katalyst Consulting Services**  
+📅 Jun 2026 – Present
 
----
+✔ Developing backend APIs using Python.
 
-## 🌟 Featured Projects
+✔ Working on ERPNext Manufacturing modules.
 
-### 📌 RepoLens
-**AI-Powered GitHub Repository Evaluation System**
+✔ Developing Production Planning features.
 
-- Evaluated 500+ GitHub repositories
-- AI-powered code review
-- Repository quality scoring
-- Personalized improvement roadmap
+✔ Integrating REST APIs.
 
-**Tech Stack**
+✔ Building responsive interfaces using Vue.js.
 
-Python • LangChain • LLM • GitHub API • Flask
+✔ Collaborating using Git, Docker, and Ubuntu.
 
 ---
 
-### 🚗 Automated Car Insurance
+## Web Developer Intern
 
-AI-powered web application for vehicle insurance automation.
+**Acmegrade**  
+📅 Dec 2024 – Feb 2025
+
+✔ Developed responsive web applications.
+
+✔ Integrated REST APIs.
+
+✔ Built backend using Flask & SQLite.
+
+✔ Improved application performance and usability.
+
+---
+
+# 🌟 Featured Projects
+
+## 🤖 RepoLens — AI-Powered GitHub Repository Evaluation
+
+An AI-powered platform for evaluating GitHub repositories using LLMs.
+
+### Highlights
+
+- 📊 Analysed 500+ repositories
+- 🤖 AI-based Code Review
+- ⭐ Repository Quality Scoring
+- 📈 Personalized Improvement Roadmaps
+
+**Tech Used**
+
+Python • Flask • GitHub API • LangChain • LLM
+
+---
+
+## 🚗 Automated Car Insurance
+
+A full-stack AI-powered insurance automation platform.
 
 ### Features
 
@@ -112,55 +170,119 @@ AI-powered web application for vehicle insurance automation.
 - Insurance Claim Automation
 - Repair Shop Lookup
 - Google Maps Integration
+- Real-time Inspection
 
-**Tech Stack**
+**Tech Used**
 
-React • Python • Firebase • YOLOv8 • Machine Learning
+Python • React.js • Firebase • YOLOv8 • Machine Learning
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gouthamvaishnav11&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamvaishnav11&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gouthamvaishnav11&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-
-## 🔗 Connect With Me  
-
-- 🔹 **GitHub:** [Gouthamvaishnav11](https://github.com/Gouthamvaishnav11)
-- 
-- 🔹 **LinkedIn:** [Goutham Vaishnav](https://www.linkedin.com/in/goutham-vaishnav/)
--  
-- 🔹 **LeetCode:** [Gouthamvaishnav](https://leetcode.com/u/Gouthamvaishnav/)  
-
+# 📈 Contribution Graph
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
-
-"Building scalable applications, solving real-world problems, and continuously learning."
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gouthamvaishnav11&theme=tokyo-night&hide_border=true"/>
 
 </p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gouthamvaishnav11&theme=algolia&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🎯 Currently Working On
+
+- 🚀 ERPNext Manufacturing
+- 📦 Production Planning
+- 🐍 Python Backend Development
+- 🤖 AI Agents
+- 🔗 LangChain Applications
+
+---
+
+# 🌱 Currently Learning
+
+- Enterprise Software Development
+- Advanced ERPNext Customization
+- AI Agent Development
+- Scalable Backend Architecture
+- System Design
+
+---
+
+# 📜 Certifications
+
+🏅 Programming in Python
+
+🏅 Programming in C
+
+🏅 Version Control (Sunstone)
+
+🏅 Backend Development (Sunstone)
+
+🏅 Web Development Internship (Acmegrade)
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:gouthamvaishnav8@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Gouthamvaishnav11">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/goutham-vaishnav/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/Gouthamvaishnav/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ "Building scalable applications, solving real-world problems, and continuously improving as a software developer."
+
+</p>
+
+<p align="center">
+
+Thanks for visiting my profile ❤️
+
+</p>
+```
