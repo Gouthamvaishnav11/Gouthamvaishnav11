@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Goutham Vaishnav</h1>
 
 <h3 align="center">
@@ -285,4 +285,3 @@ Python • React.js • Firebase • YOLOv8 • Machine Learning
 Thanks for visiting my profile ❤️
 
 </p>
-```
