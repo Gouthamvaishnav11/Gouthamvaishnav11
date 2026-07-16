@@ -1,81 +1,151 @@
-### 🚀 Full-Stack Developer & AI Automation Engineer
-Crafting Scalable, Intelligent & Secure Digital Solutions
+<h1 align="center">Hi 👋, I'm Goutham Vaishnav</h1>
+<h3 align="center">Python Backend Developer | ERPNext & Frappe Developer | AI Enthusiast</h3>
 
-Hi there! 👋 I’m Goutham Vaishnav, a dedicated Full-Stack Developer and AI Automation Engineer from Hyderabad, India.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;ERPNext+%26+Frappe+Developer;Full-Stack+Web+Developer;AI+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-I build robust backend systems using Flask & SQLAlchemy and design intelligent automation workflows powered by AI agents to solve real-world problems efficiently.
+---
 
-Over the past year, I’ve developed multiple real-world applications—from event management platforms and restaurant systems to AI-powered resume analyzers and workflow automation tools—combining creativity, performance, and smart engineering.
+## 👨‍💻 About Me
 
-# 🔹 Professional Summary
+🎓 **B.Tech Computer Science Engineering**  
+📍 Chaitanya Deemed to be University (2023 – 2027)  
+📊 CGPA: **9.3/10**
 
-Fueled by curiosity and innovation, I merge software engineering with AI-driven automation to create systems that don’t just work—
-they think, adapt, and scale intelligently.
+💼 **Python Backend Developer Intern** @ Katalyst Consulting Services
 
-I excel at transforming ideas into impactful, high-performance applications using Python, Flask, AI agents, and automation workflows, with a strong focus on clean architecture, reliability, and security.
+🔹 Developing backend APIs using **Python, ERPNext, and Frappe Framework**
 
-# 🧠 Core Expertise
+🔹 Working on **ERPNext Manufacturing**, Production Planning & REST APIs
 
-✅ Backend Development – Designing APIs, authentication systems, and secure, optimized databases
+🔹 Building responsive interfaces using **Vue.js**
 
-✅ AI & Automation – Building intelligent workflows using n8n, ChatGPT, and Omnidim.io
+🔹 Interested in Backend Development, AI, Enterprise Applications, and Open Source
 
-✅ Problem-Solving – Delivering clean, maintainable, and scalable solutions
+---
 
-# ⚙️ Skills Snapshot
-💻 Programming Languages
+## 🚀 Tech Stack
 
-C, Python, C++ (DSA)
+### 💻 Languages
 
-🖥️ Web Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+</p>
 
-HTML, CSS, JavaScript
+### ⚙️ Backend
 
-🔧 Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white"/>
+<img src="https://img.shields.io/badge/Frappe_Framework-1F4E79?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+</p>
 
-Flask, SQLAlchemy, REST APIs
+### 🎨 Frontend
 
-🤖 AI & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=vue,react,bootstrap" />
+</p>
 
-n8n, ChatGPT, Omnidim.io
+### 🗄️ Database
 
-🌐 Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,firebase" />
+</p>
 
-Git & GitHub
+### 🤖 AI & Machine Learning
 
-📚 Data Structures & Algorithms
+- LangChain
+- RAG
+- Prompt Engineering
+- NLP
+- AI Agents
+- Gemini AI
 
-Strong foundation in C++
+### 🛠 Tools
 
-🧩 Problem-Solving
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,ubuntu,vscode" />
+</p>
 
-Focused on efficient and analytical approaches
+---
 
-# 📍 Location
+# 💼 Experience
 
-Hyderabad, India
+## Python Backend Developer Intern
+**Katalyst Consulting Services** *(Jun 2026 – Present)*
 
-# 💼 Role
+- Backend API Development using Python
+- ERPNext & Frappe Framework
+- Manufacturing & Production Planning
+- Vue.js Frontend Development
+- REST API Integration
+- Git & Docker Workflow
 
-Full-Stack Developer & AI Automation Engineer
+---
 
+## 🌟 Featured Projects
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gouthamvaishnav11&layout=compact&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Gouthamvaishnav11&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gouthamvaishnav11&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+### 📌 RepoLens
+**AI-Powered GitHub Repository Evaluation System**
 
- 🧾 GitHub Profile Summary Cards
+- Evaluated 500+ GitHub repositories
+- AI-powered code review
+- Repository quality scoring
+- Personalized improvement roadmap
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gouthamvaishnav11\&theme=tokyonight)
+**Tech Stack**
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gouthamvaishnav11\&theme=tokyonight)
+Python • LangChain • LLM • GitHub API • Flask
 
-![Repositories per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gouthamvaishnav11\&theme=tokyonight)
+---
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gouthamvaishnav11\&theme=tokyonight)
+### 🚗 Automated Car Insurance
 
+AI-powered web application for vehicle insurance automation.
 
+### Features
+
+- Damage Detection (YOLOv8)
+- Fraud Detection
+- Insurance Claim Automation
+- Repair Shop Lookup
+- Google Maps Integration
+
+**Tech Stack**
+
+React • Python • Firebase • YOLOv8 • Machine Learning
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
 
 
 ## 🔗 Connect With Me  
@@ -87,8 +157,10 @@ Full-Stack Developer & AI Automation Engineer
 - 🔹 **LeetCode:** [Gouthamvaishnav](https://leetcode.com/u/Gouthamvaishnav/)  
 
 
+<p align="center">
 
-> “Code is not just about solving problems — it’s about creating intelligence, automating possibilities, and turning dreams into digital reality.” 🌟
+⭐ Thanks for visiting my profile!
 
+"Building scalable applications, solving real-world problems, and continuously learning."
 
-
+</p>
