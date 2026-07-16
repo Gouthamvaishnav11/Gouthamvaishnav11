@@ -206,10 +206,7 @@ Python • React.js • Firebase • YOLOv8 • Machine Learning
 
 ---
 
-# 🏆 GitHub Achievements
-
-## 🏆 Achievements
-
+# 🏆 GitHub Actions
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gouthamvaishnav11&theme=tokyonight" />
 </p>
