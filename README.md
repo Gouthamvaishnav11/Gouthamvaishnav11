@@ -109,7 +109,7 @@ Currently exploring Artificial Intelligence technologies including **LangChain, 
 ## Python Backend Developer Intern
 
 **Katalyst Consulting Services**  
-📅 Jun 2026 – Present
+📅 Jun 2026 – Sep 2026
 
 ✔ Developing backend APIs using Python.
 
